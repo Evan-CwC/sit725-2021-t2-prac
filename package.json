@@ -1,5 +1,5 @@
 {
-  "name": "sit725-2021-t2-prac2",
+  "name": "sit725-2024-t2-prac2",
   "version": "1.0.0",
   "description": "sit 725 T2 week 2 prac",
   "main": "server.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Evan-CwC/sit725-2021-t2-prac2.git"
+    "url": "git+https://github.com/Evan-CwC/sit725-2024-t2-prac2.git"
   },
   "author": "Evan-CwC",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Evan-CwC/sit725-2021-t2-prac2/issues"
+    "url": "https://github.com/Evan-CwC/sit725-2024-t2-prac2/issues"
   },
-  "homepage": "https://github.com/Evan-CwC/sit725-2021-t2-prac2/#readme",
+  "homepage": "https://github.com/Evan-CwC/sit725-2024-t2-prac2/#readme",
   "dependencies": {
     "express": "^4.17.1"
   }
