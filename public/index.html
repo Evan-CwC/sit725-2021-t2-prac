@@ -1,5 +1,37 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Simple Express Server</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        padding: 20px;
+      }
+      h1 {
+        color: #333;
+      }
+      p,
+      code {
+        font-size: 1.2em;
+      }
+      code {
+        background-color: #f4f4f4;
+        padding: 10px;
+        display: block;
+        margin: 10px 0;
+      }
+    </style>
+  </head>
   <body>
-    <h1>MAIN LANDING PAGE</h1>
+    <h1>Welcome to the Simple Express Server</h1>
+    <p>This is a basic web page served using Express.js.</p>
+    <p>You can use the following endpoint to add two numbers:</p>
+    <code>http://localhost:3000/addTwoNumbers?n1=5&n2=10</code>
+    <p>
+      Replace <code>n1</code> and <code>n2</code> with your desired numbers in
+      the URL to see the result.
+    </p>
   </body>
 </html>

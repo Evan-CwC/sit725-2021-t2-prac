@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Evan-CwC/sit725-2024-t2-prac2/#readme",
   "dependencies": {
-    "express": "^4.17.1"
-  }
+    "express": "^4.19.2"
+  },
+  "keywords": []
 }
